@@ -7,7 +7,7 @@
 *Bachelor of Science – Computer Science Major (Co-op Option)*  
 *GPA 3.78/4.5*      
 
-**University of Waterloo, Waterloo, ON** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *September 2011 – August 2015*               
+**University of Waterloo, Waterloo, ON** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *September 2011 – August 2015*               
 *Bachelor of Mathematics – Honours Actuarial Science and Statistics*  
 *GPA 3.78/4.5*
 
