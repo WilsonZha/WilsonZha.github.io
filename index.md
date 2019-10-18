@@ -25,7 +25,7 @@ Wawanesa Insurance, Winnipeg MB
 *	Generated NoSQL databases and set up the permissions using the serverless framework and their functionalities interacting with other services using Node js
 *	Implemented APIs using Amazon API gateway for employees to retrieve data from database
 
-**Data Science and Advanced Analytics Intern** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *September 2018 - April 2019*
+**Data Science and Advanced Analytics Intern** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *September 2018 - April 2019*
 IG Wealth Management, Winnipeg MB
 *	Integrated R functions into SQL procedures to apply regression or decision tree models to generate fitted datasets
 *	Determined optimum parameter values for machine learning algorithms based on the amount of data points and variables in the dataset
