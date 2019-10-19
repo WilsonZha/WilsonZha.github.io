@@ -32,7 +32,7 @@ IG Wealth Management, Winnipeg MB
 *	Created and optimized SQL queries to automate data retrieval and analysis processes for generalized cases
 *	Sanitized data by evaluating and removing outliers and dummy datasets as well as investigating previous data sources to locate discrepancies
 
-**Programmer/Analyst** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *January 2018 - April 2018* AgriCulture and Agri-Foods Canada
+**Programmer/Analyst** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *January 2018 - April 2018* AgriCulture and Agri-Foods Canada
 *	Created various HTML templates utilizing Mustache.js and Bootstrap while keeping consistency with previously established templates
 *	Implemented and developed the interface for a time-tracking website used by internal employees
 *	Utilized Git and JIRA dashboard for source control as well as to resolve bugs and implement new features for the website in development
