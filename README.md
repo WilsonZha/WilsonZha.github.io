@@ -2,7 +2,10 @@
 ##### This guide is created for people who have no experience with markdown, no experience in Github, and no experience in Jekyll, to create a Resume in markdown and upload it to Github Pages using a Jekyll theme.
 
 ## **Prerequisite**
-##### This guide requires the user to understand the basics of website interactions, basics of any operating system interactions, and familiarity with creating text files. Also, the user would need to have an e-mail address available.
+* basic understanding of website interactions
+* basic understanding of any operating systems
+* familiar with creating text files
+* familiar with accessing e-mails
 
 ## **Introducing markdown**
 
